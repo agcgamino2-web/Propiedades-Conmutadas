@@ -1,0 +1,50 @@
+body{
+    background-color:#120017;
+    color:#e0c9ff;
+}
+
+.encabezado{
+    background:#3a0066;
+    color:white;
+    padding:15px;
+    text-align:center;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.card-form{
+    background:#1f002b;
+    border:1px solid #6f2dbd;
+}
+
+input, select{
+    background:#2b003d !important;
+    color:white !important;
+    border:1px solid #6f2dbd !important;
+}
+
+table{
+    color:white;
+}
+
+thead{
+    background:#4b0082;
+}
+
+.btn-purple{
+    background:#6f2dbd;
+    color:white;
+}
+
+.btn-purple:hover{
+    background:#5a2396;
+}
+
+.btn-dark{
+    background:black;
+}
+
+.pie{
+    background:#3a0066;
+    padding:10px;
+}
